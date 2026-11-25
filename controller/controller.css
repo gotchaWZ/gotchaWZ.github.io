@@ -1,7 +1,14 @@
 .controller.custom {
     width: 805px !important;
     height: 598px !important;
-    background: url("controller base.png") no-repeat center !important;
+    background: url("controller base.png") no-repeat center top !important;
     background-size: 805px 598px !important;
-    position: relative;
+    position: relative !important;
+    top: 0 !important;
+    margin-top: 0 !important;
+    transform: none !important;
+}
+
+.controller.custom.half {
+    margin-top: 0 !important;
 }
