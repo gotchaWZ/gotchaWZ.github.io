@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(https://github.com/gotchaWZ/gotchaWZ.github.io/blob/main/controller/controller%20base.png);
+    background: url("https://raw.githubusercontent.com/gotchaWZ/gotchaWZ.github.io/main/controller/controller%20base.png");
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(https://github.com/gotchaWZ/gotchaWZ.github.io/blob/main/controller/pause.png);
+   background: url("https://raw.githubusercontent.com/gotchaWZ/gotchaWZ.github.io/main/controller/pause.png");
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://github.com/gotchaWZ/gotchaWZ.github.io/blob/main/controller/buttons.png);
+    background: url("https://raw.githubusercontent.com/gotchaWZ/gotchaWZ.github.io/main/controller/buttons.png");
 }
 
 .custom .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(https://github.com/gotchaWZ/gotchaWZ.github.io/blob/main/controller/sticks.png);
+   background: url("https://raw.githubusercontent.com/gotchaWZ/gotchaWZ.github.io/main/controller/sticks.png");
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(https://github.com/gotchaWZ/gotchaWZ.github.io/blob/main/controller/arrow%20pad.png);
+   background: url("https://raw.githubusercontent.com/gotchaWZ/gotchaWZ.github.io/main/controller/arrow%20pad.png");
     position: absolute;
 }
 
