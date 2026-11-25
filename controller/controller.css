@@ -4,8 +4,8 @@
     background: url("controller base.png") no-repeat center top !important;
     background-size: 805px 598px !important;
     position: relative !important;
-    top: 0 !important;
-    margin-top: 0 !important;
+    top: 50px !important;
+    margin-top: 50px !important;
     transform: none !important;
 }
 
